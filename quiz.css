@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    padding-top: rem;
+    margin: auto;
+    width: 80%;
+}
+b{
+    font-size: x-large;
+}
+p{
+    font-size: larger;
+}
+label{
+    padding: 1rem;
+    font-size: larger;
+}
+#submit-ans{
+    height: 3rem;
+    width: 5rem;
+    background-color: #6C63FF;
+    color: white;
+    border: #6C63FF;
+    border-radius: 5rem;
+
+}
+div{
+    padding: 0.25rem;
+}
+#output-div{
+    font-size: x-large;
+}
