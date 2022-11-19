@@ -12,6 +12,23 @@ input{
     height: 1.5rem;
     width: 350px;
 }
+#calculate-area{
+    
+    margin: auto;
+    display: block;
+    background-color: #6C63FF;
+    color: white;
+    height: 2rem;
+    width: fit-content;
+    font-size: large;
+    border: white solid 1px;
+}
+#output-div{
+    padding: 1rem;
+    color:#6C63FF;
+    font-size: larger;
+    text-align: center;
+}
 #is-triangle-btn{
     background-color: #6C63FF;
     color: white;
