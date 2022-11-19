@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    padding-top: 2rem;
+    padding-top: rem;
 }
 label{
     display: block;
@@ -25,4 +25,30 @@ input{
     color:#6C63FF;
     font-size: larger;
     text-align: center;
+}
+.nav-bar{
+    background-color: #6963FF;
+    color: white;
+    margin: auto;
+    padding: 2rem;
+    font-size: large;
+    border-radius: 0vh 0vh 2vh 2vh;
+}
+.list{
+    list-style: none;
+}
+.list-items{
+    float:right;
+    display: inline;
+    padding:0rem 0.5rem 0.5rem 0.5rem;
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+}
+#intro{
+    float: left;
+    font-size: x-large;
 }
