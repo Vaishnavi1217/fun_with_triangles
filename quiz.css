@@ -29,3 +29,39 @@ div{
 #output-div{
     font-size: x-large;
 }
+.nav-bar{
+    background-color: #6963FF;
+    color: white;
+    margin: auto;
+    padding: 2rem;
+    font-size: large;
+    border-radius: 0vh 0vh 2vh 2vh;
+}
+.list{
+    list-style: none;
+}
+.list-items{
+    float:right;
+    display: inline;
+    padding:0rem 0.5rem 0.5rem 0.5rem;
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+}
+#intro{
+    float: left;
+    font-size: x-large;
+}
+.container{
+    background-color: #6963FF;
+    color: white;
+    margin: 2rem 0px;
+    padding: 1rem ;
+    font-size: large;
+    border-radius: 2vh 2vh 0vh 0vh; 
+    text-align: center;
+    margin-top: 9rem;
+}
